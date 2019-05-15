@@ -1,2 +1,4 @@
 # mybatis-generator
 mybatis逆向工程
+
+借鉴了大黄同学的基于ssm框架的mybatis逆向工程，整理了基于ssm框架的mybatis逆向工程以及基于springboot的mybatis逆向工程！以便在以后的编码过程中可以帮到自己以及别人！
